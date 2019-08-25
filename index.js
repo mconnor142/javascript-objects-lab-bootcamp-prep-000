@@ -1,4 +1,4 @@
-var recipes = new Object({keys: '0'});
+var recipes = {}
 
 function updateObjectWithKeyAndValue(recipes, key, value){
   recipes[key] = value;
